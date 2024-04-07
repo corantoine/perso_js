@@ -7,8 +7,10 @@ J'essaierai plus tard de faire différemment grâce à NodeJS.
 ## Utilisation de label for
 ![alt text](capture_code/label_for.png)
 
-Le fait d'avoir mis "Clovis" en id ET dans "label for =" permet une meilleure accessibilité car ça permet de cocher la case en cliquant sur le nom et pas seulement sur la case.
+Le fait d'avoir mis "Clovis" en id **ET** dans "*label for =*" permet une meilleure accessibilité car ça permet de cocher la case en cliquant sur le nom et pas seulement sur la case.
+
 Le "checked" à la fin permet d'avoir la case cochée par défaut.
+
 "name q1" permet de réunir tous les différents boutons radio avec le même name, ce sera plus simple à retrouver en JS.
 <!-- ## Ajout d'emojis  -->
 
